@@ -3,4 +3,6 @@
 3)Dökümantasyon
 4)ER
 5)Data Dictionary
-6)
+6)Denormalisation
+7)SQL
+8)
