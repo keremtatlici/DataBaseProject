@@ -4,10 +4,6 @@
 eksikler
 
 ---------------
-*Diziler (2)	
-Sequências (2)
-
-------------------
 *Kullanýcý seviyeleri (2)
 Níveis de utilizadores (2)
 
