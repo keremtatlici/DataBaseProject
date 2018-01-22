@@ -3,19 +3,7 @@
 ------------------
 eksikler
 
-----------------------
-*Veri sözlük tamamlama (Ad, Açýklama, Veri türü, Boyut, Kýsýtlamalar, Anahtar, Zorunlu, Tek)
-Completude do dicionário de dados (Nome, Descric¸a˜o, Tipo de dados, Tamanho, Restric¸o˜es, Chave, Obrigato´rio, U´nico)
-
 ---------------
-*Denormalizasyondan kaynaklanan anomalilerin tartýþýlmasý (12)
-Discussão das anomalias resultantes da desnormalização (12)
-
-------------------
-*Dürüstlük Kýsýtlamalarý (Varlýk, Referans, Etki Alaný, Kompleks Kurallar)
-Restrições de integridade (Entidade, Referencial, Domínio, Regras complexas)
-
--------------------
 *Diziler (2)	
 Sequências (2)
 
@@ -50,8 +38,3 @@ Adequação dos algoritmos às funções a desempenha
 ----------------------------
 *Kaynakça (eksiksiz, metinde atýfta bulunulan, iyi tanýmlanmýþ)
 Bibliografia (completa, referenciada no texto, bem definida)
-
----------------------------------
-*Raporun genel yönü (endeksli, ekli, organize edilmiþ, eksiksiz, okunmasý kolay ve analiz edilebilen, iþ yükü dolu olan tek bir pdf dosyasý)
-	
-Aspecto geral do relatório (um único ficheiro pdf, com índice, com anexo, bem organizado, completo, fácil de ler e analisar, carga de trabalho preenchida)
