@@ -1,0 +1,26 @@
+*içerik
+
+------------------
+eksikler
+----------------------
+*Veri sözlük tamamlama (Ad, Açýklama, Veri türü, Boyut, Kýsýtlamalar, Anahtar, Zorunlu, Tek)
+Completude do dicionário de dados (Nome, Descric¸a˜o, Tipo de dados, Tamanho, Restric¸o˜es, Chave, Obrigato´rio, U´nico)
+---------------
+*Denormalizasyondan kaynaklanan anomalilerin tartýþýlmasý (12)
+Discussão das anomalias resultantes da desnormalização (12)
+------------------
+*Dürüstlük Kýsýtlamalarý (Varlýk, Referans, Etki Alaný, Kompleks Kurallar)
+Restrições de integridade (Entidade, Referencial, Domínio, Regras complexas)
+-------------------
+*Diziler (2)	
+Sequências (2)
+------------------
+*Kullanýcý seviyeleri (2)
+Níveis de utilizadores (2)
+--------------------
+*Algoritma ve problemlere uygun iþlemler (2)
+Transacções com algoritmo e adequadas ao problema (2)
+----------------------
+*PL / SQL kodunda DB'de gerçekleþtirilen iþlemler	
+Transacções implementadas na BD em código PL/SQL
+----------------------
